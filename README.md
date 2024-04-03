@@ -20,7 +20,10 @@ Our research aims to analyze several influential factors on inflation including 
 ## Primary Methods 
 
 -Causal Graphical Models
+
 -Bayesian Statistical Modeling with PyMC3
+
 -Data Handling and Visualization
+
 -Custom Functions
 

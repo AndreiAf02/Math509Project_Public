@@ -30,4 +30,4 @@ Our research aims to analyze several influential factors on inflation including 
 
 ## Overleaf Link
 
-The Overleaf link to our PDF report is given [here](https://www.overleaf.com/read/qnbbywppzdpg#94f2d6)
+The Overleaf link to our PDF report is given [here](https://www.overleaf.com/read/qnbbywppzdpg#94f2d6).

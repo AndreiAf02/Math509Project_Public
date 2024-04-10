@@ -1,4 +1,4 @@
-![image](https://github.com/AndreiAf02/Math509Project_Public/assets/55684431/4da82adc-0a42-4004-b5d6-a5fe9af3f3d0)
+![image](https://github.com/AndreiAf02/Math509Project_Public/blob/main/Readme_graph.jpg)
 # Bayesian Analysis of Macroeconomic Influences on Inflation and Gold Price
 
 This repository contains the code and datasets used in our study on understanding the intricate behavior of inflation and gold price in relation to their influential factors. Using Bayesian analysis and causal inference models, we explore significant correlations and the time-delayed nature of economic indicators' impact.
